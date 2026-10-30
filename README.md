@@ -1,16 +1,19 @@
-DSA Practice
+DSA Practice 🚀
 
-My journey of learning Data Structures and Algorithms through consistent problem-solving.
+My journey of learning Data Structures and Algorithms (DSA) through consistent problem-solving and practical coding.
 
-Goals
+I use this repository to document my learning progress, improve problem-solving skills, and prepare for technical interviews and software engineering placements.
+
+🎯 Goals
 
 - Improve problem-solving and logical thinking.
-- Understand common data structures and algorithms.
+- Understand fundamental data structures and algorithms.
 - Practice coding using Python.
 - Analyze time and space complexity.
-- Build a public portfolio of solutions.
+- Solve coding problems from platforms like LeetCode.
+- Build a strong foundation for technical interviews.
 
-Topics
+📚 Topics Covered
 
 - Arrays and Strings
 - Linked Lists
@@ -19,16 +22,32 @@ Topics
 - Trees and Graphs
 - Recursion and Backtracking
 - Dynamic Programming
+- Mathematics and Number Theory
 
-Solutions
+💻 LeetCode Solutions
 
-Problem| Topic| Language
-"Add Two Numbers" (https://leetcode.com/problems/add-two-numbers/)| Linked List| Python
+No.| Problem| Difficulty| Topic| Language| Solution
+2| "Add Two Numbers" (https://leetcode.com/problems/add-two-numbers/)| Medium| Linked List| Python| Python
+9| "Palindrome Number" (https://leetcode.com/problems/palindrome-number/)| Easy| Math| Python| Python
 
-My Approach
+🛠️ Languages & Tools
 
-I aim to understand each problem, write the logic in my own words, test the solution, and analyze its complexity.
+- Language: Python
+- Platform: LeetCode
+- Version Control: Git & GitHub
 
-This repository will be updated as I continue learning.
+📈 My Approach
 
-Learning consistently, one problem at a time.
+For every problem, I follow these steps:
+
+1. Understand the problem statement.
+2. Develop a logical approach.
+3. Write a clean and readable solution.
+4. Test the code with different test cases.
+5. Analyze time and space complexity.
+
+🌱 Learning Progress
+
+This repository is a record of my continuous learning journey. I will keep adding new problems, improving existing solutions, and exploring different approaches as I progress.
+
+Learning consistently, solving problems, and improving every day.
